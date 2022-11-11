@@ -145,8 +145,8 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w
 
 
 ## OUTPUT :
-    ![image](https://user-images.githubusercontent.com/113699377/201341869-c0da6c5a-406c-4638-9f29-f77b695ae6d8.png)
-    ![image](https://user-images.githubusercontent.com/113699377/201341992-17bf4b02-3d64-428b-b0d3-22259dbf4cea.png)
+  ![image](https://user-images.githubusercontent.com/113699377/201343561-302436d9-8464-4846-8994-bb306186eeb8.png)
+![image](https://user-images.githubusercontent.com/113699377/201343603-3a4331ec-9d35-4824-9bc2-ebd4fc4e6412.png)
 
 
 ## RESULT:
